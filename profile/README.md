@@ -27,4 +27,4 @@ Both are in public beta: try them on a staging copy first.
 
 - A bug or a question about the engine: [Chronos DB issues](https://github.com/Abhishekxdg/Chronos-DB/issues)
 - About the gateway: [Gateway issues](https://github.com/Abhishekxdg/chronos-gateway-releases/issues)
-- A security problem: report it privately, as each repository's `SECURITY.md` says
+- A security problem: report it privately, as [SECURITY.md](https://github.com/Abhishekxdg/Chronos-DB/blob/main/SECURITY.md) says
